@@ -7,6 +7,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -16,5 +17,10 @@ My daily DSA practice and LeetCode problem Solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
