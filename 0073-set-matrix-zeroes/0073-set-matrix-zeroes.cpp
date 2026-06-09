@@ -6,7 +6,7 @@ public:
         //  m is row and n is col
         // col -> matrix[0][...]
         // row -> matrix[...][0]
-        int col0 = matrix[0][0];
+        int col0 = 1;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(matrix[i][j] == 0){
