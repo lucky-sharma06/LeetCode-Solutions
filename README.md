@@ -11,6 +11,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
