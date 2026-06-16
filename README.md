@@ -7,6 +7,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -41,6 +42,7 @@ My daily DSA practice and LeetCode problem Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
