@@ -15,6 +15,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -49,5 +50,6 @@ My daily DSA practice and LeetCode problem Solutions
 | [0035-search-insert-position](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
