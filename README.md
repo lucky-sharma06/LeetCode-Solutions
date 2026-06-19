@@ -54,4 +54,12 @@ My daily DSA practice and LeetCode problem Solutions
 | [0162-find-peak-element](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
