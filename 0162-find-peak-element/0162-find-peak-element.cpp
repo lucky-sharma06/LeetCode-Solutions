@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
+        // Brute Force
         int n = nums.size();
         if(n == 1) return 0;
         if(nums[0] > nums[1]) return 0;
