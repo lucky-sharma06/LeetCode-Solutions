@@ -39,6 +39,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +65,9 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
