@@ -72,13 +72,16 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
