@@ -5,34 +5,45 @@ public:
     MyQueue() {
     //
     }
-    
+    // push easy, pop costly approach if push >>>> top
     void push(int x) {
-      int s = s1.size();
-      for(int i = 1; i <= s; i++){
-        s2.push(s1.top());
-        s1.pop();
-      }   // s1 -> s2
-      s1.push(x); // x -> s1
-      // s2 -> s1;
-      while(!s2.empty()){
-        s1.push(s2.top());
-        s2.pop();
-      }
-      
+      s1.push(x);      
     }
     
     int pop() {
-        int elem = s1.top();
-        s1.pop();
-        return elem;
+        if(!s2.empty()){
+            int elem = s2.top();
+            s2.pop();
+            return elem;
+        }
+        else{
+            // s1 -> s2
+            while(s1.size()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+            int elem = s2.top();
+            s2.pop();
+            return elem;
+        }
     }
     
     int peek() {
-        return s1.top();
+        if(!s2.empty()){
+            return s2.top();
+        }
+        else{
+            // s1 -> s2
+            while(s1.size()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+            return s2.top();
+        }
     }
     
     bool empty() {
-        return s1.empty();
+        return s1.empty() && s2.empty();
     }
 };
 
