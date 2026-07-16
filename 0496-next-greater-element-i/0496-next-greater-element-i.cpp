@@ -1,32 +1,31 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int i = 0;  
-        int j = 0;
+        // optimal approach
+        stack<int> st;
+        unordered_map<int, int> mp;
+        int n = nums2.size();
+        // traverse from back
         vector<int> ans;
-        for(i = 0; i < nums1.size(); i++){
-            for(j = 0; j < nums2.size(); j++){
-                if(nums1[i] == nums2[j]){
-                    break;
-                }
+        // ans is the NGE array
+        for(int i = n - 1; i >= 0; i--){
+            while(!st.empty() && st.top() <= nums2[i]){
+                st.pop(); // st me elemnts hai and chote hai tab tak pop()
             }
-            // j mil gya
-            j++;
-            
-            bool found = false; // flag variable
-            while(j < nums2.size()){
-                if(nums2[j] > nums1[i]){
-                    ans.push_back(nums2[j]);
-                    found = true;
-                    break;
-                }
-                else
-                    j++;
+            if(st.empty()){
+                mp[nums2[i]] = -1;
+                // means right me koi large ni
             }
-            if(!found){
-                ans.push_back(-1);
+            else{
+                mp[nums2[i]] = st.top();
             }
+            st.push(nums2[i]);
+        }
+
+        for(int i = 0; i < nums1.size(); i++){
+            ans.push_back(mp[nums1[i]]);
         }
         return ans;
+
     }
 };
