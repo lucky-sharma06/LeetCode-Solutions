@@ -11,6 +11,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -76,6 +78,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -96,6 +99,11 @@ My daily DSA practice and LeetCode problem Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
