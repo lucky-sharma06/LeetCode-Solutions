@@ -21,9 +21,8 @@ public:
                 
                 if(!l.empty() && l.back() == abs(asteroids[i])){
                     l.pop_back(); // if equal hai then both destryoed so move ahead
-                    continue;
                 }
-                if(l.empty() || l.back() < 0){
+                else if(l.empty() || l.back() < 0){
                     l.push_back(asteroids[i]); // -ve to be pushed in the list
                 }
             }
