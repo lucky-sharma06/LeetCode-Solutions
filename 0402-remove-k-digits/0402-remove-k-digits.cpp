@@ -6,7 +6,7 @@ public:
         stack<char> st;
         // n size ki string
         int i = 0;
-        while(num[i] != '\0'){
+        while(i < n){
             while(!st.empty() && k > 0 && num[i] < st.top()){
                 st.pop();
                 k--;
