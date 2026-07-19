@@ -23,7 +23,7 @@ public:
         vector<int> pse(n);
         stack<int> st;
         for(int i = 0; i < n; i++){
-            while(!st.empty() && heights[i] <= heights[st.top()]){
+            while(!st.empty() && heights[i] < heights[st.top()]){
                 st.pop();
             }
             if(st.empty()){
