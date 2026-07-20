@@ -23,7 +23,7 @@ public:
         while(!st.empty()){
             maxArea = max(maxArea, heights[st.top()] * (n - pse[st.top()] - 1));
             st.pop();
-        }
+        } // this is how i solved
         return maxArea;
     }
 };
