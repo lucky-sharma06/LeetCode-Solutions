@@ -29,6 +29,7 @@ public:
         return maxArea;        
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
+        if(matrix.empty()) return 0;
         int m = matrix.size();
         int n = matrix[0].size();
         vector<vector<int>> prefixSum(m, vector<int>(n));
