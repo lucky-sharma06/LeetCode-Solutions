@@ -45,6 +45,7 @@ My daily DSA practice and LeetCode problem Solutions
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
@@ -135,6 +136,7 @@ My daily DSA practice and LeetCode problem Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
