@@ -15,6 +15,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -138,6 +139,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -145,4 +147,8 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
