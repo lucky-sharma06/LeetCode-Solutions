@@ -23,6 +23,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0137-single-number-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0260-single-number-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -144,6 +145,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0136-single-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
