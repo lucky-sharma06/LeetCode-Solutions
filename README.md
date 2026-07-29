@@ -23,6 +23,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0137-single-number-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -51,6 +52,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -155,4 +157,12 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
