@@ -52,6 +52,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
@@ -152,6 +153,7 @@ My daily DSA practice and LeetCode problem Solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
