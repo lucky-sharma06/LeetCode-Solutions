@@ -25,6 +25,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0162-find-peak-element](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -83,6 +84,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,4 +170,12 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
