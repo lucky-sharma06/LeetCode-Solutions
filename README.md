@@ -32,6 +32,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0560-subarray-sum-equals-k](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -143,6 +144,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
