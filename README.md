@@ -93,6 +93,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -138,12 +140,14 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
 |  |
@@ -180,4 +184,8 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
