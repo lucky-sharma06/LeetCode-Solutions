@@ -1,32 +1,34 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
+        // Optimal Approach
         int n = ratings.size();
-        vector<int> left(n);
+        int sum = 1;
+        int i = 1;
+        while(i < n){
+            if(ratings[i] == ratings[i - 1]){
+                    sum += 1;
+                    i++;
+                    continue;
+            }
+            // slope is increasing
+            int peak = 1;
+            while(i < n && (ratings[i] > ratings[i - 1])){
+                peak++; // cause peak 1 is already considered
+                sum += peak;
+                i++;                
+            }
+            int down = 1;
+            while(i < n && (ratings[i] < ratings[i - 1])){
+                sum += down;
+                down++;
+                i++;
+            }
 
-        left[0] = 1;
-        for(int i = 1; i < n; i++){
-            if(ratings[i] > ratings[i - 1]){
-                left[i] = left[i - 1] + 1;
+            if(down > peak){
+                sum += (down - peak);
             }
-            else{
-                left[i] = 1;
-            }
-        }
-        // done with the left array
-        // now moving backwards;
-        
-        int curr = 1, right = 1;
-        int sum = max(left[n - 1], 1);
-        for(int i = n - 2; i >= 0; i--){
-            if(ratings[i] > ratings[i + 1]){
-                curr = right + 1;
-            }
-            else{
-                curr = 1;
-            }
-            right = curr;
-            sum += max(left[i], curr);
+
         }
         return sum;
     }
