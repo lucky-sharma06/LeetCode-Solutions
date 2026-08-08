@@ -16,6 +16,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
