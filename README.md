@@ -30,6 +30,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0162-find-peak-element](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -147,6 +148,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0045-jump-game-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
@@ -156,6 +158,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -190,6 +193,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
