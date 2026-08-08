@@ -21,6 +21,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -151,6 +152,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
