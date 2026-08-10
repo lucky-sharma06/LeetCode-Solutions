@@ -63,6 +63,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0050-powx-n](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +178,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0050-powx-n](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
