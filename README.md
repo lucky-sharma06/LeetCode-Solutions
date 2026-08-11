@@ -41,6 +41,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0860-lemonade-change](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0056-merge-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
 | ------- |
