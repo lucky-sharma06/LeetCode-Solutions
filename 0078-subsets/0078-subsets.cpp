@@ -1,6 +1,7 @@
 class Solution {
 public:
     void subSet(int idx, vector<int>& nums, vector<vector<int>>& ans, vector<int>& ds){
+        // this is the recursive way to solve the problem
         if(idx == nums.size()){
             ans.push_back(ds);
             return;
