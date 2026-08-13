@@ -4,10 +4,10 @@ public:
     void subSet(int idx, vector<int>& nums, vector<vector<int>>& ans, vector<int>& ds){
         // BASE CASE
         ans.push_back(ds);
-        if(idx == nums.size()){
+        if(idx == nums.size()){ // this is not needed
             return;
         }
-
+        // the for loop itself works as the base case;
         for(int i = idx; i < nums.size(); i++){
             if(i > idx && nums[i] == nums[i - 1]) continue;
             ds.push_back(nums[i]);
