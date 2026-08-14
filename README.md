@@ -109,6 +109,7 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
@@ -157,6 +158,7 @@ My daily DSA practice and LeetCode problem Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -196,6 +198,7 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -224,5 +227,6 @@ My daily DSA practice and LeetCode problem Solutions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
