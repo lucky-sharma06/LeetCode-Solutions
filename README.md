@@ -201,6 +201,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
