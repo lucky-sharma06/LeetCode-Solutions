@@ -111,6 +111,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0020-valid-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -163,6 +164,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0045-jump-game-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -204,6 +206,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0077-combinations](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
