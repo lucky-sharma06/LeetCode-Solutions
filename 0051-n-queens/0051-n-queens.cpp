@@ -53,9 +53,7 @@ public:
             board[i] = s;
         }
         // created the chess board with '.'
-        int row = 0;
-        int col = 0;
-        Queen(col, board, ans);
+        Queen(0, board, ans);
 
         return ans;
 
