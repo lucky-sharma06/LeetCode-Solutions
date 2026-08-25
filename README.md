@@ -18,6 +18,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0042-trapping-rain-water](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -203,6 +204,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -233,4 +235,8 @@ My daily DSA practice and LeetCode problem Solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
