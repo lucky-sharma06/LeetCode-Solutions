@@ -26,6 +26,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0057-insert-interval](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -67,6 +68,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0048-rotate-image](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -211,6 +214,7 @@ My daily DSA practice and LeetCode problem Solutions
 | [0051-n-queens](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -248,4 +252,8 @@ My daily DSA practice and LeetCode problem Solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/lucky-sharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
