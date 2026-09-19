@@ -14,14 +14,15 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         
         vector<vector<int>> ans;
+        if(root == nullptr){
+            return ans;
+        }
         queue<TreeNode*> q;
         q.push(root);
 
         // initialization done
 
-        if(root == nullptr){
-            return ans;
-        }
+        
         while(!q.empty()){
             int size = q.size();
             vector<int> level;
